@@ -1,0 +1,32 @@
+* {
+		margin: 0px;
+		padding: 0px;
+	}
+
+img {
+	width: 100px;
+		}
+body {
+	background-color: #B2D3C2;
+	
+}
+
+.container {
+	margin-top: 5%;
+	margin-bottom: 5%;
+	text-align: center;
+
+}
+
+h1 {
+	background-color: #728C69;
+	padding: 15px;
+	font-family: Imperial Script;
+	text-align: center;
+}
+
+td, tr {
+	vertical-align: middle;
+	font-family: Newsreader;
+}
+
